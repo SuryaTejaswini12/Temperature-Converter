@@ -1,1 +1,1 @@
-# Temperature-Converter
+This project is a simple temperature converter web application created using HTML, CSS, and JavaScript. The converter allows users to convert temperatures between Celsius, Kelvin and Fahrenheit scales.
